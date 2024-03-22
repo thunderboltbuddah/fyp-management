@@ -1,0 +1,19 @@
+.container_button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+    height: 400px;
+    margin: auto;
+   
+  }
+  
+  .text {
+    margin-bottom: 20px; /* Adjust as needed */
+  }
+  
+  .button {
+    padding: 10px 20px; /* Adjust as needed */
+  }
+  

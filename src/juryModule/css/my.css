@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+.main{
+
+     border: 1px;
+     border-radius: 10px;
+    
+    padding: 20px;
+    background-color: #dedede15;
+   
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+}
+.main2{
+
+    border: 1px;
+    border-radius: 10px;
+   
+   border-color: rgb(212, 212, 212);
+   padding: 20px;
+   box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 5px -10px;
+
+   background-color: #b3b3b315;
+  
+   
+
+}
+body{
+      font-family: 'Roboto', sans-serif;
+ 
+}
+.btn1{
+    background-color:#2dc799 ;
+    color: antiquewhite;
+    border: 0px;
+   margin: 2px;
+  }
+  .Button-verified{
+    background-color:#2dc79900 ;
+    border: 3px;
+    border-color: rgb(228, 161, 99);
+    color:  rgb(228, 161, 99);
+    border-style: solid;
+    }
+
+
+
+/* Active tab */
+
+
+
+
+h2{
+    font-family: 'Outfit', sans-serif;
+}
+h3{
+    font-family: 'Outfit', sans-serif;
+font-weight: 200;  
+}
+p,.body,a{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;   
+}
+h4,h5{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;   
+   
+}
+.btn{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400; 
+}
+
+.Button-verified{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400; 
+}
+
+
